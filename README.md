@@ -1,4 +1,4 @@
-# IziLearning-Front
+# IziLearning-Frontend
 IZI Learning Frontend
 
 # Getting Started with Create React App
